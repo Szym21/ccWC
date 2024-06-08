@@ -1,0 +1,1 @@
+A CLI wc tool written in Typescript using Commander.JS 
